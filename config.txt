@@ -1,0 +1,6 @@
+﻿token=NzAyODY4OTYyMTY5MzIzNjIw.XqGUDQ.pr0nxepy2qYhXb_2298so07mXnU
+owner=402418565531303937
+prefix= ♡
+game= ♡help
+stayinchannel=true
+songinstatus=true 
